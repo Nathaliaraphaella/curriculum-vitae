@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/Captura1.jpg" alt="Demonstração do projeto" width="100%" >
+  <img src="./assets/Captura1.png" alt="Demonstração do projeto" width="100%" >
 </p>
 <p align="center">
-  <img src="./assets/Captura2.jpg" alt="Segunda foto da demonstração do projeto" width="100%" >
+  <img src="./assets/Captura2.png" alt="Segunda foto da demonstração do projeto" width="100%" >
 </p>
 
 ## 🖥️ Projeto Curriculum Vitae Online
